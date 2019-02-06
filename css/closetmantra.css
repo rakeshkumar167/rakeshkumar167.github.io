@@ -1,0 +1,102 @@
+.margin-top-100{
+    margin-top: 100px;
+}
+.margin-top-50{
+    margin-top: 50px;
+}   
+.margin-top{
+  margin-top: 20px;
+}
+.heading{
+  margin-left:20px;
+  margin-right:20px;
+}
+body{
+  //background-color: #bdb8ad;
+  background-attachment: scroll;
+}
+a{
+  color: 	#800000;
+  text-decoration: underline;
+}
+.block{
+  width:300px;
+  background:#8a8681;
+  margin:12px;
+}
+.double {
+  width:450px !important;
+}
+.view{
+  height:1000px;
+  background-color: #aba69d;
+}
+.footer{
+  color:#e8e9ea;
+  height:300px;
+  background: #1e1c1b;
+  margin-top: 50px;
+}
+
+.box{
+  border-radius: 11px;
+  margin-top: 60px;
+  margin-left:20px;
+  padding:20px;
+  background:#F1F1F1;
+  text-align: center;
+}
+.homepage-box{
+  margin-top: 20px;
+  padding:10px;
+  background:#F1F1F1;
+  text-align: center;
+}
+.homepage-text{
+    font-family: Tangerine, cursive;
+    font-size:22px;
+}
+.homepage-text-bold{
+    font-family: Tangerine, cursive;
+    font-size:22px;
+    font-weight: bolder;
+}
+.text-style{
+    font-family: Tangerine, cursive;
+}
+.box-detail{
+  align-content: center;
+  text-align: center;
+  font-family: Tangerine, cursive;
+}
+
+.box-img{
+    height:400px;
+}
+.works-box{
+    margin: 10px;
+}
+
+.work-heading{
+    font-family: Tangerine, cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+.border-bottom{
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+}
+
+.portfolio-cover{
+    background-image: url('../images/portfolio.jpg');
+    background-repeat: repeat-y;
+    color:white;
+    text-align: center;
+    vertical-align: middle;
+}
+.pbox{
+  border-radius: 11px;
+
+  background:#F1F1F1;
+  text-align: center;
+}
