@@ -1116,7 +1116,7 @@ a {
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
       .swiper-container .swiper-slide .image-wrap .image-info h2 {
-        color: #fff; }
+        color: #000; }
     .swiper-container .swiper-slide .image-wrap:hover:before {
       background: rgba(0, 0, 0, 0.4);
       content: ""; }
@@ -1130,6 +1130,20 @@ a {
     .swiper-container .btn-outline-white:hover {
       background: #fff;
       color: #000; }
+  .swiper-container .btn-outline-black {
+        border-color: #000;
+        color: #fff;
+        background-color: #000;
+        border-width: 2px;
+        text-transform: uppercase;
+        font-size: 11px;
+        letter-spacing: .1em; }
+  .swiper-container .btn-outline-black:hover {
+          background: #fff;
+          border-color: #fff;
+          color: #000;
+          background-color:#fff;
+  }
 
 .swiper-button-prev,
 .swiper-container-rtl .swiper-button-next {
